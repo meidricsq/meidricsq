@@ -8,7 +8,7 @@
 - HTML5 & CSS3
 
 ### 📫 Reach me at:
-- Discord (madryx#5578)
+- Discord (xTerminator#5504)
 
 <!--
 **qmadryx/qmadryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
