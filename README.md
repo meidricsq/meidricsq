@@ -3,7 +3,6 @@
 ### #️⃣ Used technologies
 
 - JavaScript
-- Bootstrap
 - Lua
 - HTML5 & CSS3
 
